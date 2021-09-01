@@ -1,0 +1,23 @@
+PODS:
+  - Alamofire (5.4.3)
+  - shared (1.0):
+    - Alamofire (~> 5.2)
+
+DEPENDENCIES:
+  - shared (from `../shared`)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+
+EXTERNAL SOURCES:
+  shared:
+    :path: "../shared"
+
+SPEC CHECKSUMS:
+  Alamofire: e447a2774a40c996748296fa2c55112fdbbc42f9
+  shared: f226abf28e2b98e1cf17ba77f0ba4e9e8e49b241
+
+PODFILE CHECKSUM: f282da88f39e69507b0a255187c8a6b644477756
+
+COCOAPODS: 1.10.2
